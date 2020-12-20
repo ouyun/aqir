@@ -1,1 +1,1 @@
-# aqir
+# aqir - utility for fetching AQI (Air Quality Index) from a certain hardware module
